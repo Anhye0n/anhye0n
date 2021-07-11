@@ -1,6 +1,12 @@
-### Hi there 👋
+### 대부분 private으로 설정되어 있어 공개되지 않은 저장소가 많습니다.
 
-대부분 private으로 설정되어 있어 공개되지 않은 저장소가 많습니다.
+#### 미공개 Repositories
+```
+- node_user_handling_boiler-plate 
+- vanilla_a_shopping 
+- boiler-plate
+- etc.
+```
 <!--
 **Anhye0n/anhye0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
