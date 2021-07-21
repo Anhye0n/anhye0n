@@ -1,7 +1,7 @@
 
 # 블로그
 
-https://velog.io/@ajh08070
+https://blog.anhye0n.me/
 
 ### 대부분 private으로 설정되어 있어 공개되지 않은 저장소가 많습니다.
 
