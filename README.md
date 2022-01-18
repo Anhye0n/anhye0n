@@ -1,15 +1,12 @@
 
 # 블로그
 
-https://blog.anhye0n.me/
+https://anhye0n.com/
 
 ### 대부분 private으로 설정되어 있어 공개되지 않은 저장소가 많습니다.
 
-#### 미공개 Repositories
-```
-- node_user_handling_boiler-plate 
-- velog_blog
-- etc.
+YCSI 대회 시연 영상
+https://youtu.be/Ol1WtUXO4XA
 ```
 
 <!--
