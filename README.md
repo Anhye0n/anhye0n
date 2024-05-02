@@ -10,10 +10,16 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
 
 </p>
+<p align="center">
+  <a href="https://github.com/anhye0n/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhye0n&layout=compact" />
+    
+<br />
+<br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anhye0n&show_icons=true&theme=radical" />
+</a>
+</a>
+</p>
 
-<figure class="align-center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhye0n&layout=compact)](https://github.com/anhye0n/github-readme-stats)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhye0n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</figure>
